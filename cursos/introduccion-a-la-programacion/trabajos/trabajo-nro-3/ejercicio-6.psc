@@ -1,10 +1,10 @@
 Algoritmo ejercicio_6
-	Escribir "Numero de ni�os que asistiran"
+	Escribir "Numero de niños que asistiran"
 	Leer boys
-	Escribir "Numero de ni�as que asistiran"
+	Escribir "Numero de niñas que asistiran"
 	Leer girls
 	
-	Escribir "�De quien es el cumplea�os? 1: Ni�o, 2: Ni�a"
+	Escribir "¿De quien es el cumplea�os? 1: Niño, 2: Niña"
 	Leer genero
 	
 	all = girls + boys

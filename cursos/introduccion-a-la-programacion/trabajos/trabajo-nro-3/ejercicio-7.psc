@@ -14,5 +14,5 @@ Algoritmo ejercicio_7
 	FinSi
 	
 	Mostrar "El sueldo total es: S/ ", total_trabajado * precio
-	Mostrar "Dias de compensaci�n: ", trunc(acumulado / 8)
+	Mostrar "Dias de compensacion: ", trunc(acumulado / 8)
 FinAlgoritmo

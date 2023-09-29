@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_8
 	Definir valor_antiguo, valor_actual, consumo_kwh Como Real
     Definir cuota_fija, cuota_variable, importe_total Como Real
 	
@@ -23,7 +23,7 @@ Algoritmo sin_titulo
 	
     importe_total <- cuota_fija + cuota_variable
 	
-    Mostrar "Consumo de energía en Kwh: ", consumo_kwh
+    Mostrar "Consumo de energï¿½a en Kwh: ", consumo_kwh
     Mostrar "Cuota fija: S/.", cuota_fija
     Mostrar "Cuota variable: S/.", cuota_variable
     Mostrar "Importe total de la factura: S/.", importe_total

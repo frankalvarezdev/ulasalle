@@ -1,10 +1,10 @@
-Algoritmo sin_titulo
-	Escribir "Numero de niños que asistiran"
+Algoritmo ejercicio_6
+	Escribir "Numero de niï¿½os que asistiran"
 	Leer boys
-	Escribir "Numero de niñas que asistiran"
+	Escribir "Numero de niï¿½as que asistiran"
 	Leer girls
 	
-	Escribir "¿De quien es el cumpleaños? 1: Niño, 2: Niña"
+	Escribir "ï¿½De quien es el cumpleaï¿½os? 1: Niï¿½o, 2: Niï¿½a"
 	Leer genero
 	
 	all = girls + boys

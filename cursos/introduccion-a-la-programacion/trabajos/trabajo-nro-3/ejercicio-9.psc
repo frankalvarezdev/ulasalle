@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_9
 	Definir horas, minutos, segundos Como Entero
 	
     Escribir "Ingrese las horas: "

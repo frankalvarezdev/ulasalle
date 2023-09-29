@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_3
 	Definir horas_trabajadas Como Entero
     Definir salario_semanal Como Real
 	

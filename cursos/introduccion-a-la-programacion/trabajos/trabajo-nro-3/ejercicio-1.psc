@@ -1,7 +1,7 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_1
 	Definir tiempo, personas Como Entero
 	
-    Escribir "Ingrese el tiempo en horas que se tomó en contar la historia: "
+    Escribir "Ingrese el tiempo en horas que se tomï¿½ en contar la historia: "
     Leer tiempo
 	Escribir "Ingrese la cantidad de personas que escucharon el relato: "
 	Leer personas
@@ -10,7 +10,7 @@ Algoritmo sin_titulo
         Escribir "El resultado es negativo"
     SiNo
         Si tiempo > 3 y personas > 5 Entonces
-            Escribir "Tiene la opción de narrar nuevamente la historia para mejorar el tiempo."
+            Escribir "Tiene la opciï¿½n de narrar nuevamente la historia para mejorar el tiempo."
         SiNo
             Escribir "El resultado es positivo."
 		FinSi

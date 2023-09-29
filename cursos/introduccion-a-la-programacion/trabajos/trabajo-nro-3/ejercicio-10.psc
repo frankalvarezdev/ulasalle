@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_10
 	Definir n_1, n_2, n_3, n_4, n_menor Como Entero
 	Escribir "Ingrese el primer numero:"
     Leer n_1

@@ -1,11 +1,11 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_5
 	Definir cantidad_camisas, momento_dia Como Entero
     Definir precio_unitario, total, descuento Como Real
 	
     Escribir "Ingrese la cantidad de camisas compradas: "
     Leer cantidad_camisas
 	
-    Escribir "Seleccione el momento del día (1: Mañana, 2: Tarde, 3: Noche): "
+    Escribir "Seleccione el momento del dï¿½a (1: Maï¿½ana, 2: Tarde, 3: Noche): "
     Leer momento_dia
 	
     Escribir "Ingrese el precio unitario de las camisas: "

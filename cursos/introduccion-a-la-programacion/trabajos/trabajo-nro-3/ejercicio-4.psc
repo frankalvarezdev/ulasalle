@@ -1,12 +1,12 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_4
 	Definir nombre_articulo, clave Como Cadena
     Definir precio_original, precio_con_descuento Como Real
 	
-    Escribir "Ingrese el nombre del artículo: "
+    Escribir "Ingrese el nombre del artï¿½culo: "
     Leer nombre_articulo
     Escribir "Ingrese la clave (01, 02 o 03): "
     Leer clave
-    Escribir "Ingrese el precio original del artículo: "
+    Escribir "Ingrese el precio original del artï¿½culo: "
     Leer precio_original
 	
 	Segun clave Hacer
@@ -18,7 +18,7 @@ Algoritmo sin_titulo
 			precio_con_descuento = precio_original * 0.75
 	Fin Segun
 	
-    Mostrar "Nombre del artículo: ", nombre_articulo
+    Mostrar "Nombre del artï¿½culo: ", nombre_articulo
     Mostrar "Clave: ", clave
     Mostrar "Precio original: S/ ", precio_original
     Mostrar "Precio con descuento: S/ ", precio_con_descuento

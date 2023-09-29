@@ -4,7 +4,7 @@ Algoritmo ejercicio_6
 	Escribir "Numero de niñas que asistiran"
 	Leer girls
 	
-	Escribir "¿De quien es el cumplea�os? 1: Niño, 2: Niña"
+	Escribir "¿De quien es el cumpleaños? 1: Niño, 2: Niña"
 	Leer genero
 	
 	all = girls + boys
